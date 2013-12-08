@@ -302,6 +302,9 @@ html, body {
     text-shadow: 0px 0px 5px black;
     font-size: 2.5em;
 }
+.new .response_count {
+    color: yellow !important;
+}
 .plurk_icon {
     z-index: 860;
 }
